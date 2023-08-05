@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PrimeraAplicacion</string>
+    <string name="titulo">Escribe tu nombre</string>
+    <string name="boton">Presiona</string>
+    <string name="resultado">Aca muestra el resultado</string>
+</resources>
